@@ -5,7 +5,7 @@
 
 The Foundation App is an idea of Web Application to store all the information related to the Foundation series created by Isaac Asimov. The main goal of this applicaton is provide a easy and fancy way to an Asimov's fan to look for interesting information about the book series and connect all the different worlds, characters and main/side plots. 
 
-The application is currently:  <font color="red">This is some text!</font>
+Application Status:  ![](https://img.shields.io/badge/Working-orange)
 
 
 
