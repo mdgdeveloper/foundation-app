@@ -12,6 +12,10 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.3.7",
+    "postcss-nesting": "^8.0.1",
+    "postcss-purgecss": "^2.0.3",
+    "purgecss": "^4.0.3",
     "vite": "^2.6.4"
   }
 }
