@@ -15,10 +15,10 @@ Fan Page of Foundation Literary Series
 All the fonts are available through Google Fonts platform
 |Name|Rating|URL|Selected|
 |-|-|-|-|
-|Saira|⭐⭐⭐⭐ ◾|https://fonts.google.com/specimen/Saira?&preview.text=FOUNDATION&preview.text_type=custom | ✅
-|Orbitron| ⭐⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Orbitron?preview.text=FOUNDATION&preview.text_type=custom | ❌ |
-|Audiowide| ⭐⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Audiowide?preview.text=FOUNDATION&preview.text_type=custom | ❌ |
-|Rajdhani| ⭐⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Rajdhani?preview.text=Foundation&preview.text_type=custom | ❌ |
+|Saira|⭐⭐⭐ ◾|https://fonts.google.com/specimen/Saira?&preview.text=FOUNDATION&preview.text_type=custom | ✅
+|Orbitron| ⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Orbitron?preview.text=FOUNDATION&preview.text_type=custom | ❌ |
+|Audiowide| ⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Audiowide?preview.text=FOUNDATION&preview.text_type=custom | ❌ |
+|Rajdhani| ⭐⭐ ◾ ◾| https://fonts.google.com/specimen/Rajdhani?preview.text=Foundation&preview.text_type=custom | ❌ |
 
 
 ## Colors 
