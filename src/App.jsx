@@ -1,11 +1,11 @@
 
 import './App.css';
+import Home from './pages/Home';
 
 const App = () => {
   return (
     <div>
-      Foundation App v0.1.alpha
-      Codename: Enciclopedia Galactica
+      <Home />
     </div>
   )
 }

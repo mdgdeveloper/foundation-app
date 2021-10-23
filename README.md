@@ -8,7 +8,17 @@ The Foundation App is an idea of Web Application to store all the information re
 Application Status:  ![](https://img.shields.io/badge/Working-orange)
 
 # Main Functionalities
-Fan Page of Foundation Literary Series
+Fan Page of Foundation Literary Series.
+
+## Ideas
+* Main information of the Series. 
+* Reading guide
+* History of Empire
+* Imperial library of Trantor 
+  * Systems Guide
+  * Character Guide 
+* Episode Guide
+* 
 
 # UI/UX Resources
 ## Fonts

@@ -1,0 +1,14 @@
+.h-bg{
+
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(8,24,47,1) 100%);
+    color: white;
+}
+
+.h-nebula{
+    width: 100%;
+    background: url('../img/nebula-bg.png') no-repeat;
+    //height: 100vh;
+    background-position: center 10%;
+
+}
