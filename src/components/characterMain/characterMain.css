@@ -1,0 +1,81 @@
+.c-header {
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.c-subheader{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    color: #ccc;
+margin-bottom: 20px;
+}
+.c-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.c-item {
+  padding: 20px;
+
+  width: 25%;
+  margin: 10px;
+  display: flex;
+  background-color: #243c5f33;
+}
+
+.c-desc-title{
+    font-weight: 400;
+}
+
+.c-shadow {
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 1);
+}
+
+.c-image {
+  flex: 1;
+  width: 30%;
+  height: 100%;
+  margin-right: 20px;
+  border: 1px solid #ccc;
+}
+
+.c-desc {
+  flex: 2;
+}
+
+.c-tag-list {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.c-tag {
+  font-size: 14px;
+  padding: 2px 5px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+.c-tag-race {
+  background-color: #67210c;
+}
+
+.c-tag-planet {
+  background-color: #356faa;
+}
+
+.c-tag-era {
+  background-color: #688340;
+}
+
+/* --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06); */
+/* box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow); */
