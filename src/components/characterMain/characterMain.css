@@ -28,7 +28,9 @@ margin-bottom: 20px;
   width: 25%;
   margin: 10px;
   display: flex;
-  background-color: #243c5f33;
+  background-color: #243c5f;
+  background: url('../../img/sm-nebula.png') no-repeat;
+  background-size: 450px;
 }
 
 .c-desc-title{

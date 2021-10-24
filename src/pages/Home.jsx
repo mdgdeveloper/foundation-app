@@ -2,6 +2,7 @@ import React from "react";
 import CharacterMain from "../components/characterMain/CharacterMain";
 import Header from "../components/header/Header";
 import Main from "../components/main/Main";
+import Footer from "../components/footer/Footer";
 import "./home.css";
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
           <Header />
           <Main />
           <CharacterMain />
+          <Footer />
         </div>
       </div>
     </div>
