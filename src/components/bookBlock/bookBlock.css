@@ -1,0 +1,45 @@
+.bl-block-entry {
+    display: flex;
+    margin-bottom: 30px;
+  }
+  
+  .bl-block-left {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-right: 50px;
+  
+  }
+  
+  .bl-block-img{
+      width: 250px;
+  }
+  
+ .bl-block-img-detail{
+     width: 100%;
+     text-align: center;
+ }
+
+  .bl-block-name{
+      font-size: 30px;
+      width: 100%;
+      text-align: center;
+      text-transform: uppercase;
+      color: #ddd;
+      margin-top: 20px;
+  }
+
+  .bl-block-desc{
+    text-align: center;
+    color: #ccc;
+  }
+  
+  .bl-block-right {
+    flex: 2;
+  }
+  
+
+  
+  

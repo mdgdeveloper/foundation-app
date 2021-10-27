@@ -30,3 +30,87 @@ export const characters = [
     },
 
 ]
+
+export const bookGuide = [
+    {
+        id: 1,
+        name: "Precuelas",
+        img: "../src/img/guide-planet-0.png",
+        desc: "Lorem impsum sit amet consectetur adipisicing elit. Repellat exe",
+        books: [
+            {
+                id: 1,
+                title: "Preludio a la Fundacion",
+                cover: "../src/img/covers/preludio.jpg",
+                group: "Ciclo de Trantor",
+                saga: "Fundación",
+                main: "Hari Seldon",
+                desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem in soluta consectetur quod sint tempora sunt ipsam doloribus inventore ipsum nulla, omnis aut delectus eum. Officiis non perferendis architecto.",
+                rating: 3.5,
+                review: "http://",
+                purchase: ""
+
+            },
+            {
+                id: 2,
+                title: "Hacia la Fundacion",
+                cover: "../src/img/covers/hacia.jpg",
+                group: "Ciclo de Trantor",
+                saga: "Fundación",
+                main: "Hari Seldon",
+                desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem in soluta consectetur quod sint tempora sunt ipsam doloribus inventore ipsum nulla, omnis aut delectus eum. Officiis non perferendis architecto.",
+                rating: 3,
+                review: "http://",
+                purchase: ""
+            }
+
+        ]
+    },
+    {
+        id: 2,
+        name: "Trilogía de la Fundación",
+        img: "../src/img/guide-foundation.png",
+        desc: "Lorem impsum sit amet consectetur adipisicing elit. Repellat exe",
+        books: [
+            {
+                id: 1,
+                title: "Fundacion",
+                cover: "../src/img/covers/fundacion.jpg",
+                group: "Ciclo de Trantor",
+                saga: "Fundación",
+                main: "Salvor Hardin",
+                desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem in soluta consectetur quod sint tempora sunt ipsam doloribus inventore ipsum nulla, omnis aut delectus eum. Officiis non perferendis architecto.",
+                rating: 4.5,
+                review: "http://",
+                purchase: ""
+
+            },
+            {
+                id: 2,
+                title: "Fundación e Imperio",
+                cover: "../src/img/covers/fundacion-e-imperio.jpg",
+                group: "Ciclo de Trantor",
+                saga: "Fundación",
+                main: "Hari Seldon",
+                desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem in soluta consectetur quod sint tempora sunt ipsam doloribus inventore ipsum nulla, omnis aut delectus eum. Officiis non perferendis architecto.",
+                rating: 4,
+                review: "http://",
+                purchase: ""
+
+            },
+            {
+                id: 3,
+                title: "Segunda Fundación",
+                cover: "../src/img/covers/segunda-fundacion.jpg",
+                group: "Ciclo de Trantor",
+                saga: "Fundación",
+                main: "Hari Seldon",
+                desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat exercitationem in soluta consectetur quod sint tempora sunt ipsam doloribus inventore ipsum nulla, omnis aut delectus eum. Officiis non perferendis architecto.",
+                rating: 4,
+                review: "http://",
+                purchase: ""
+
+            }
+        ]
+    }
+]

@@ -1,6 +1,7 @@
 .r-wrapper{
     width: 100%;
     margin-top: 50px;
+    
 }
 
 .r-title{
@@ -8,4 +9,8 @@
     font-weight: 400;
     text-transform: uppercase;
     text-align: center;
+}
+
+.r-subtitle{
+    margin-bottom: 50px;
 }

@@ -1,0 +1,75 @@
+.bl-book {
+    margin-bottom: 30px;
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .bl-book-img{
+      width: 120px;
+      border: 2px solid white;
+  }
+  
+  .bl-book-info{
+      width: 100%;
+  }
+  
+  .bl-book-title {
+    margin: 0 20px;
+    padding: 0;
+    font-weight: 300;
+    border-bottom: 1px solid #333;
+    width: 100%;
+  }
+  
+  .bl-book-tags{
+      display: flex;
+      margin-left: 20px;
+  }
+  
+  .bl-book-tag{
+      font-size: 13px;
+      color: #ccc;
+      padding: 5px 10px;
+      background: #000;
+      margin-right: 5px;
+      margin-top: 5px;
+      border-radius: 5px;
+  }
+  
+  .bl-book-desc{
+      color: #ccc;
+      margin: 10px 20px;
+      font-size: 14px;
+  }
+  
+  .bl-book-footer{
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  .bl-book-rating{
+      display: flex;
+      margin-left: 20px;
+  }
+  
+  .bl-book-star{
+      width: 20px;
+      height: 20px;
+      margin-right: 3px;
+  }
+  
+  .bl-button{
+      border: none;
+      cursor: pointer;
+      background-color: #baa14a;
+      transition: all ease 0.3s;
+      margin-left: 10px;
+      
+      &:hover {
+          background-color: white;
+      }
+  }
+
+  .bl-comprar{
+      background-color: #8f667c;
+  }

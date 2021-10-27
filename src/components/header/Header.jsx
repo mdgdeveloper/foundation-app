@@ -11,7 +11,7 @@ const Header = () => {
         <div className="he-menu">
             <div className="he-menu-item">Inicio</div>
             <div className="he-menu-item"><a href="#serie">La Serie</a></div>
-            <div className="he-menu-item">Guía de Lectura</div>
+            <div className="he-menu-item"><a href="#guia">Guía de Lectura</a></div>
             <div className="he-menu-item">Historia Imperial</div>
             <div className="he-menu-item">Guía de Episodios</div>
         </div>
