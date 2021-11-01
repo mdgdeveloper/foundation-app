@@ -1,7 +1,7 @@
 export const characters = [
     {
         id: 1,
-        img: '../src/img/seldon.png',
+        img: '/img/seldon.png',
         name: "Hari Seldon",
         type: "Humano",
         planet: "Trantor",
@@ -11,7 +11,7 @@ export const characters = [
     },
     {
         id: 2,
-        img: "../src/img/gaal.png",
+        img: "/img/gaal.png",
         name: "Gaal Dornick",
         type: "Humano",
         planet: "Sywenna",
@@ -21,7 +21,7 @@ export const characters = [
     {
         id: 3,
         name: "Salvor Hardin",
-        img: "../src/img/hardin.png",
+        img: "/img/hardin.png",
         type: "Humano",
         planet: "Terminus",
         era: "Enciclopedistas",
@@ -35,13 +35,13 @@ export const bookGuide = [
     {
         id: 1,
         name: "Precuelas",
-        img: "../src/img/guide-planet-0.png",
+        img: "/img/guide-planet-0.png",
         desc: "Lorem impsum sit amet consectetur adipisicing elit. Repellat exe",
         books: [
             {
                 id: 1,
                 title: "Preludio a la Fundacion",
-                cover: "../src/img/covers/preludio.jpg",
+                cover: "/img/covers/preludio.jpg",
                 group: "Ciclo de Trantor",
                 saga: "Fundación",
                 main: "Hari Seldon",
@@ -54,7 +54,7 @@ export const bookGuide = [
             {
                 id: 2,
                 title: "Hacia la Fundacion",
-                cover: "../src/img/covers/hacia.jpg",
+                cover: "/img/covers/hacia.jpg",
                 group: "Ciclo de Trantor",
                 saga: "Fundación",
                 main: "Hari Seldon",
@@ -69,13 +69,13 @@ export const bookGuide = [
     {
         id: 2,
         name: "Trilogía de la Fundación",
-        img: "../src/img/guide-foundation.png",
+        img: "/img/guide-foundation.png",
         desc: "Lorem impsum sit amet consectetur adipisicing elit. Repellat exe",
         books: [
             {
                 id: 1,
                 title: "Fundacion",
-                cover: "../src/img/covers/fundacion.jpg",
+                cover: "/img/covers/fundacion.jpg",
                 group: "Ciclo de Trantor",
                 saga: "Fundación",
                 main: "Salvor Hardin",
@@ -88,7 +88,7 @@ export const bookGuide = [
             {
                 id: 2,
                 title: "Fundación e Imperio",
-                cover: "../src/img/covers/fundacion-e-imperio.jpg",
+                cover: "/img/covers/fundacion-e-imperio.jpg",
                 group: "Ciclo de Trantor",
                 saga: "Fundación",
                 main: "Hari Seldon",
@@ -101,7 +101,7 @@ export const bookGuide = [
             {
                 id: 3,
                 title: "Segunda Fundación",
-                cover: "../src/img/covers/segunda-fundacion.jpg",
+                cover: "/img/covers/segunda-fundacion.jpg",
                 group: "Ciclo de Trantor",
                 saga: "Fundación",
                 main: "Hari Seldon",

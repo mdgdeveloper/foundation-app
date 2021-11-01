@@ -18,6 +18,23 @@
     opacity: 0.6;
 }
 
+.f-about{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    
+    
+}
+
+.f-about-text{
+    margin-left: 50px;
+    color: #999;
+    padding-right: 25%;
+}
+
 .f-center{
     flex: 1;
     margin-top: 30px;
